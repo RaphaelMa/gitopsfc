@@ -1,0 +1,10 @@
+kind: Service
+apiVersion: v1
+metadata:
+  name: nodeserver-service
+spec:
+  selector:
+    app: nodeserver
+  ports:
+    - port: 3000
+      targetPort: 3000
