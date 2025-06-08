@@ -8,4 +8,4 @@ resources:
 images:
   - name: nodeserver
     newName: raphaelma/gitopsfc
-    newTag: sha
+    newTag: latest
