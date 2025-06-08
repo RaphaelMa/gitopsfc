@@ -7,5 +7,5 @@ resources:
 
 images:
   - name: nodeserver
-    newName: raphaelma/gitopsfc
+    newName: raphaelmviana/gitopsfc
     newTag: latest
